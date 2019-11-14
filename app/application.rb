@@ -6,4 +6,4 @@ class Application
     binding.pry
     resp.write "#{Time.now}"
   end
-end 
+end
